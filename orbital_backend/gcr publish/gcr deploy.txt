@@ -1,0 +1,4 @@
+docker build -t chope .
+docker run --rm -p 8080:8080 -e PORT=8080 chope
+gcloud builds submit --tag asia.gcr.io/easysearchfood/chope
+gcloud beta run deploy chope --image asia.gcr.io/easysearchfood/chope --region asia-southeast1 --platform managed
