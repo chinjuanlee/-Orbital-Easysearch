@@ -1,7 +1,0 @@
-Flask==1.0.2
-gunicorn==19.9.0
-Pyrebase-t==1.0.28
-selenium==3.141.0
-flask-cors==3.0.10
-chromedriver-binary==91.0.4472.101.0
-fake-useragent==0.1.11
