@@ -1,8 +1,8 @@
 (Orbital 2021) Team CheapSkate
 
-README link: https://docs.google.com/document/d/1awkWGEUsz-tkPAJCYsMPbNG4vYPbqGCEdi6GNLhG9vM/edit?usp=sharing
+Application: https://easysearch.vercel.app
 
-Web application link: https://easysearch.vercel.app
+README link: https://docs.google.com/document/d/1awkWGEUsz-tkPAJCYsMPbNG4vYPbqGCEdi6GNLhG9vM/edit?usp=sharing
 
 Video link: https://drive.google.com/file/d/1Fm19hjeHb0wlPc_L_7zg4_DQdNi3hQF9/view?usp=sharing
 
